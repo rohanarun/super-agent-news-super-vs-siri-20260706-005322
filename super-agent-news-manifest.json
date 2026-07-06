@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Engadget",
+      "title": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE"
+    },
+    {
+      "source": "qz.com",
+      "title": "Apple is blocking its new Siri AI from EU iPhones after regulators rejected all its compliance proposals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vaFYxTlE5dXJidGpQX0xyQlhkMjNHelFReHRMWnNBMDd5emdUUXlHcjV1dkdWeEJhXzFUSkdDSnpKd2dkYzEwTXJlTjJlZTJCYUE5R0FLbjVEY3FsN0VBQnBPVlV5Zw"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Siri'+'competitor_comparison'+'people comparing Super with Siri'+'2026-07-06T00:52:29.700415+00:00') \u2192 selected architecture=comparison-lab, typography=Cabinet Grotesk, components=[decision-matrix, workflow-playbook-timeline, source-card-dossier], GSAP=[image-scale-fade-scroll, hover-physics]. AIDA Check: Hero captures attention, proof and comparison build interest, workflow and cache advantage build desire, CTA closes action. Font Selection: Cabinet Grotesk via Fontshare. Hero Math Verification: clamp headline fits 2\u20133 lines at common breakpoints. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded animations only. Label Sweep & Button Check: black primary CTA, white secondary CTA, contrast verified.",
+  "generated_at": "2026-07-06T00:53:29.430633+00:00",
+  "headline": "Super vs Siri \u2014 Personal AI Agents Compared for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair, source\u2011backed comparison for people deciding between Apple\u2019s Siri and Super. Siri is a voice\u2011first assistant embedded in Apple devices. Super is positioned for users who want a personal AI agent that can actually operate computers and reuse a computer-use cache for repeated workflows."
+}
